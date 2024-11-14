@@ -1,7 +1,3 @@
-Here’s an updated `README.md` for Windows-only instructions:
-
----
-
 # **Go Template CLI**
 
 A CLI tool to generate new Go projects with a predefined template structure. Simplify your project initialization process and ensure consistency in folder and file organization.
